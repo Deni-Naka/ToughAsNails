@@ -1,0 +1,17 @@
+{
+  "itemGroup.toughasnails": "Tough As Nails",
+
+  "container.toughasnails.water_purifier": "Очиститель воды",
+  "effect.toughasnails.thirst": "Жажда",
+
+  "item.toughasnails.tan_icon": "Иконка TAN",
+  "item.toughasnails.empty_canteen": "Пустой фляга",
+  "item.toughasnails.water_canteen": "Фляга с водой",
+  "item.toughasnails.dirty_water_canteen": "Фляга с грязной водой",
+  "item.toughasnails.purified_water_canteen": "Фляга с очищенной водой",
+  "item.toughasnails.dirty_water_bottle": "Бутылочка с грязной водой",
+  "item.toughasnails.purified_water_bottle": "Бутылочка с очищенной водой",
+
+  "block.toughasnails.rain_collector": "Собиратель дождевой воды",
+  "block.toughasnails.water_purifier": "Очиститель воды"
+}
